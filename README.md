@@ -2,7 +2,7 @@
 
 A simple todo list application built with HTML, CSS, and JavaScript.
 
-[!Deployed link](todolistbysuccess.netlify.app)
+[Deployed link](todolistbysuccess.netlify.app)
 
 ## Features
 
